@@ -6,68 +6,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>YOSE POWER Coupon Code 2026 – Up To 50% OFF</title>
 <meta name="description" content="Get the latest YOSE POWER coupon codes and discounts for e-bike batteries, conversion kits, chargers, and accessories.">
-<style>
-body{
-font-family:Arial,sans-serif;
-background:#f5f5f5;
-margin:0;
-padding:0;
-line-height:1.7;
-color:#222;
-}
-.container{
-max-width:1000px;
-margin:auto;
-background:#fff;
-padding:30px;
-}
-h1,h2,h3{
-color:#111;
-margin-top:30px;
-}
-.hero img{
-width:100%;
-border-radius:10px;
-}
-.btn{
-display:inline-block;
-background:#ff6600;
-color:#fff;
-padding:14px 24px;
-text-decoration:none;
-border-radius:6px;
-font-weight:bold;
-margin-top:15px;
-}
-.table{
-width:100%;
-border-collapse:collapse;
-margin-top:20px;
-}
-.table th,.table td{
-border:1px solid #ddd;
-padding:12px;
-text-align:left;
-}
-.table th{
-background:#222;
-color:#fff;
-}
-.section{
-margin-top:40px;
-}
-.faq{
-background:#fafafa;
-padding:20px;
-border-radius:10px;
-margin-top:20px;
-}
-.footer{
-margin-top:50px;
-font-size:14px;
-color:#666;
-}
-</style>
 </head>
 <body>
 
