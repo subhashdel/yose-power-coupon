@@ -4,9 +4,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-# YOSE POWER Coupon Code 2026
-
-Get the latest YOSE POWER coupon codes and save up to 50% OFF on batteries, e-bikes, and accessories.
 </head>
 <body>
 
